@@ -1,0 +1,8 @@
+Esc
+
+
+Esc
+:
+q
+i
+ENTER
